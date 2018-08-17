@@ -31,9 +31,9 @@ import javax.crypto.Cipher;
  * 非对称加密算法可以用来对对称加密的密钥加密，这样保证密钥的安全也就保证了数据的安全
  * </p>
  *
- * @author IceWee
+ * @author vector
  * @version 1.0
- * @date 2012-4-26
+ * @date 2018-7-26
  */
 public class RSAUtils {
 
